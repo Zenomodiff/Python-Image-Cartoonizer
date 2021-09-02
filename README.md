@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 from tkinter.filedialog import *
 
-these are the Modules 
+these are the Modules Used 
 
 ### `Samples Of Converted Images`
 
