@@ -1,5 +1,9 @@
 # Python-Image-Cartoonizer
 
+import cv2
+import numpy as np
+from tkinter.filedialog import *
+
 ### `Samples Of Converted Images`
 
 
